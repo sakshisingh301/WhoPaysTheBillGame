@@ -1,6 +1,6 @@
 **Created a fun game where we can enter the players name and it will show who lost and that person will pay the bill.**
 
-**Tools and Technology:** React.js,javascript ,HTML,CSS
+**Tools and Technology:** React.js, javascript ,HTML, CSS
 
 
 Add the player-
